@@ -9,7 +9,8 @@ class myclass{
 
 			}
 		public static void main(String args[]){
-				method("welcome to git");
+                                myclass obj=new myclass();
+				obj.method("welcome to git");
 			}
 
 }
