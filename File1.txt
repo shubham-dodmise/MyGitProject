@@ -3,8 +3,8 @@ This is file 1 without this AHAM BRAMHASMI
 class myclass{
 
 		
-                void method(){
-				sysout("my method");
+                private void method(String str){
+				sysout(str);
 			}
 		public static void main(String args[]){
 			}
