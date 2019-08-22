@@ -1,13 +1,13 @@
 This is file 1 without this AHAM BRAMHASMI
 
 class myclass{
-                System.out.println("hsdjsh");
 
+		
+                void method(){
+				sysout("my method");
+			}
+		public static void main(String args[]){
+			}
 
-undoing in git
 }
-fkgjfdlgjdfkgjdf
-ghgfhgfhfg
-fhgfh
-hgfh
-jk
+
