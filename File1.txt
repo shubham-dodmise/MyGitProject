@@ -3,10 +3,13 @@ This is file 1 without this AHAM BRAMHASMI
 class myclass{
 
 		
-                private void method(String str){
+
+                private static void method(String str){
 				sysout(str);
+
 			}
 		public static void main(String args[]){
+				method("welcome to git");
 			}
 
 }
